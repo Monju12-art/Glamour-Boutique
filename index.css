@@ -21,7 +21,7 @@ html {
   header {
     position: relative; /* Set position relative for layering */
     height: 100vh; /* Full viewport height */
-    background-image: url('pictures/homep.jpg');
+    background-image: url('picture/homep.jpg');
     background-size:contain ; /* Ensure the main image covers the entire header */
     background-position: center; /* Center the main image */
     background-repeat: no-repeat; /* Avoid repetition */
